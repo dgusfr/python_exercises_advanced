@@ -68,11 +68,6 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
   - ...
   - 12.py
 
-- **Projetos**
-  - 1.py
-  - ...
-  - .py
-
 ## Autor
 
 Desenvolvido por Diego Franco.
