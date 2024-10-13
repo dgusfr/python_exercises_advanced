@@ -68,6 +68,10 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
   - ...
   - 5.py
 
+## Fonte
+
+O enunciado dos exercicios foram adaptados do site: `https://wiki.python.org.br/ListaDeExercicios`
+
 ## Autor
 
 Desenvolvido por Diego Franco.
