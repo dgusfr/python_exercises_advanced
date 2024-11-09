@@ -16,7 +16,6 @@ def main():
         espaco_total += espaco
         espacos_usuarios.append((nome, espaco))
 
-    # Ordenando usuários pelo espaço ocupado
     espacos_usuarios.sort(key=lambda x: x[1], reverse=True)
 
     # Escrevendo o relatório
