@@ -18,7 +18,6 @@ def main():
 
     espacos_usuarios.sort(key=lambda x: x[1], reverse=True)
 
-    # Escrevendo o relatório
     with open('relatorio_usuarios.txt', 'w') as saida:
         saida.write("ACME Inc.               Uso do espaço em disco pelos usuários\n")
         saida.write("------------------------------------------------------------------------\n")
