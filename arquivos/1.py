@@ -20,7 +20,6 @@ def main():
         else:
             invalidos.append(endereco)
 
-    # Escrevendo o relatório de endereços
     with open('relatorio_enderecos.txt', 'w') as saida:
         saida.write("[Endereços válidos:]\n")
         for endereco in validos:
