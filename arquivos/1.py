@@ -29,6 +29,5 @@ def main():
         for endereco in invalidos:
             saida.write(f"{endereco}\n")
 
-#Verifica se o módulo atual está sendo executado como o programa principal.
 if __name__ == "__main__":
     main()
