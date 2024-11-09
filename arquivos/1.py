@@ -1,4 +1,3 @@
-#Módulo de Expressões regulares
 import re
 
 def validar_endereco_ip(ip):
