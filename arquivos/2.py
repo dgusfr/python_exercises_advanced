@@ -8,7 +8,6 @@ def main():
     with open('usuarios.txt', 'r') as entrada:
         usuarios = entrada.readlines()
 
-    # Calculando espaço total ocupado e espaços ocupados por cada usuário
     espaco_total = 0
     espacos_usuarios = []
     for usuario in usuarios:
