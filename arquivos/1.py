@@ -11,7 +11,6 @@ def main():
     with open('entrada.txt', 'r') as entrada:
         enderecos = entrada.readlines()
 
-    # Separando endereços válidos e inválidos
     validos = []
     invalidos = []
     for endereco in enderecos:
