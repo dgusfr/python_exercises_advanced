@@ -5,7 +5,6 @@ def calcular_percentual(espaco_ocupado, espaco_total):
     return (espaco_ocupado / espaco_total) * 100
 
 def main():
-    # Lendo o arquivo de entrada
     with open('usuarios.txt', 'r') as entrada:
         usuarios = entrada.readlines()
 
